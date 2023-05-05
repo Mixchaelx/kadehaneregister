@@ -1,21 +1,21 @@
 {
     "BotSettings": {
-        "token": "TOKEN",
-        "owner": "SAHİP ID",
-        "prefix": "PREFİX",
+        "token": "MTEwMjIyNjU4NDc3NTE4MDMyMA.GEPoDk.AryV13tWuTJsQi_Ruj0ZBVH4jmHQmq_q9tegho",
+        "owner": "126155970152890372",
+        "prefix": ".",
         "botStatus": "botclub.net",
-        "botVoiceChannelID": "BOTUN SESE GİRCEĞİ KANAL ID"
+        "botVoiceChannelID": "1104010078471864360"
     },
     "Roles": {
-        "BoyRole1": "ERKEK ROL 1",
+        "BoyRole1": "1102190848231362615",
         "BoyRole2": "ERKEK ROL 2",
-        "GirlRole1": "KIZ ROL 1",
+        "GirlRole1": "1102191063260733500",
         "GirlRole2": "KIZ ROL 2",
-        "Unregister": "KAYITSIZ ROL",
-        "Registerer": "YETKİLİ ROL",
+        "Unregister": "1104022934697300008",
+        "Registerer": "1102187924734345277",
         "TagRole": "TAG ROL",
-        "Suspicious": "ŞÜPHELİ ROL",
-        "Jail": "JAİL ROL"
+        "Suspicious": "1104023117652824075",
+        "Jail": "1104023117652824075"
     },
         "Colors": {
             "Red": "ff0000",
